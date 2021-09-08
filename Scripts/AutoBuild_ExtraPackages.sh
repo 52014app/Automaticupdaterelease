@@ -21,7 +21,7 @@ coolsnowwolf,master)
 	AddPackage git other luci-app-serverchan tty228
 	AddPackage svn other luci-app-socat Lienol/openwrt-package/trunk
 	AddPackage git other luci-app-onliner Hyy2001X
-	AddPackage git other luci-app-adguardhome Hyy2001X
+	AddPackage git other luci-app-adguardhome 52014app
 	AddPackage svn other luci-app-eqos kenzok8/openwrt-packages/trunk
 	AddPackage git other OpenClash vernesong master
 	AddPackage git other luci-app-adblock-plus small-5 master
