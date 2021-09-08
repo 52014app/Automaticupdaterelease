@@ -3,7 +3,7 @@
 # AutoBuild DiyScript
 
 Diy_Core() {
-	Author=小碗儿数码
+	Author=VIP
 	Default_LAN_IP=192.168.5.1
 	Load_CustomPackages_List=true
 	Short_Firmware_Date=true
